@@ -6,11 +6,11 @@
 
         <title>Laravel_test</title>
 
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <link href="css/app.css" rel="stylesheet">
     </head>
     <body>
         <div id="root"></div>
        
     </body>
-    <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="js/app.js" defer></script>
 </html>
