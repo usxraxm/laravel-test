@@ -9,6 +9,7 @@ function Example() {
                     <div className="card">
                         <div className="card-header"> Component</div>
                         
+                        <div className="card-body"></div>
                     </div>
                 </div>
             </div>
@@ -18,6 +19,8 @@ function Example() {
 
 export default Example;
 
-if (document.getElementById('Example')) {
-    ReactDOM.render(<Example />, document.getElementById('Example'));
+if (document.getElementById('example')) {
+    ReactDOM.render(<Example />, document.getElementById('example'));
 }
+
+

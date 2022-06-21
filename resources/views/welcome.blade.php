@@ -10,6 +10,7 @@
     </head>
     <body>
         <div id="root"></div>
-        <script src="{{ asset('js/app.js') }}" defer></script>
+       
     </body>
+    <script src="{{ asset('js/app.js') }}" defer></script>
 </html>

@@ -12,4 +12,5 @@
         <div id="root"></div>
         <script src="{{ asset('js/app_clone.js') }}" defer></script>
     </body>
+    
 </html>
